@@ -1,4 +1,4 @@
-# Interesting cheat sheets [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting cheat sheets [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 ## General
@@ -6,7 +6,7 @@
 - [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets)
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
