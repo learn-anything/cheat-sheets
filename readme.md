@@ -3,7 +3,7 @@
 
 ## General
 - [Dev hints](https://devhints.io/)
-- [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
