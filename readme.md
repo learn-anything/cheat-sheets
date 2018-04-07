@@ -6,7 +6,10 @@
 - [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
 
 ## Machine Learning
-- [ML cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Machine Learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
+## Python
+- [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
