@@ -1,18 +1,31 @@
-# Awesome Cheat Sheets [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
+# Cheat sheets
+
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+
+---
+
+#### Contents
+
+- [General](#general)
+- [Machine Learning](#machine-learning)
+- [Python](#python)
+
+---
 
 ## General
-- [Dev hints](https://devhints.io/)
+
 - [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
+- [Dev hints](https://devhints.io/)
 
 ## Machine Learning
+
 - [Machine Learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ## Python
+
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
-## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
+---
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
