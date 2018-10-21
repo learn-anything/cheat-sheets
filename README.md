@@ -8,6 +8,7 @@
 #### Contents
 
 - [General](#general)
+- [JavaScript](#javascript)
 - [Machine Learning](#machine-learning)
 - [Python](#python)
 
@@ -17,6 +18,10 @@
 
 - [Awesome cheat sheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
 - [Dev hints](https://devhints.io/)
+
+## JavaScript
+
+- [Asynchronous JavaScript](https://github.com/frontarm/async-javascript-cheatsheet)
 
 ## Machine Learning
 
