@@ -1,7 +1,9 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included cheat sheets before adding a new one, as yours may be a duplicate.
-- Use the following format: `<[Name](link) - Description.`
+- Use the following format: `[Name](link) - Description.`
 - The cheat sheet should be put into its appropriate category. Pick the one you think is closest if you are not sure.
 - Only add cheat sheets you think are awesome.
 - Start the description with a capital and end with a full stop.
