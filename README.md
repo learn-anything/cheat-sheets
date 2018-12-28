@@ -25,7 +25,9 @@
 
 ## Machine Learning
 
-- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets#readme)
+- [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
+- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning.
 
 ## Python
 
