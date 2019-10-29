@@ -10,8 +10,6 @@
 - [Machine Learning](#machine-learning)
 - [Python](#python)
 
----
-
 ## General
 
 - [Awesome Cheat Sheets](https://github.com/LeCoupa/awesome-cheatsheets#readme)
